@@ -1,1 +1,1 @@
-# industrial-programming-technologies
+# Модель базы данных
