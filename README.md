@@ -1,1 +1,1 @@
-# industrial-programming-technologies
+Методолгии разработки ПО
